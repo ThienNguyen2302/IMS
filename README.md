@@ -1,5 +1,5 @@
 # IMS
-This is a project internship management for TDTU
+This is a project internship management cloned in github
 
 PS: This project is associated with the internship application process for PICT College and confirms the business logic as specified by the university's requirements. You can feel free to use the project but it would require changes for personal use.
 
